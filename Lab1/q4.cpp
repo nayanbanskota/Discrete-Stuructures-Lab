@@ -1,3 +1,6 @@
+#include <iostream.h>
+using namespace std;
+
 class people{
     int age;
     string name;
